@@ -10,9 +10,9 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 - [x] Clone this repo
 - [x] Create a branch `git checkout -b 'firstName-lastName'`
   - [x] Add a file to the project called `yourFirstName-yourLastName`.txt. This should contain the link to your completed codepen from part 2 as well as the review questions/answers
-  - [ ] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
-- [ ] Create a Pull-Request to submit your work
-  - [ ] Use your own student fork as the base (compare across forks, base-fork -> main).
+  - [x] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
+- [x] Create a Pull-Request to submit your work
+  - [x] Use your own student fork as the base (compare across forks, base-fork -> main).
 
 
 ## Task 2: MVP
@@ -38,6 +38,6 @@ Stretch Git Tasks
 
 - [ ] Research and set up a Graphical User Interface (GUI) Git console. 
 
-- [ ] Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
+- [x] Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
 
 
